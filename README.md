@@ -18,7 +18,7 @@ A custom-designed 5-inch freestyle FPV drone frame built in Autodesk Fusion 360,
 
 ## Files Included
 
-- `drone_frame_v1.f3d` – Fusion 360 source file
+- `drone_frame_v1.f3z` – Fusion 360 source file
 - `.step` and `.stl` – For CNC or 3D printing
 - `/renders/` – Design previews and exploded views
 
