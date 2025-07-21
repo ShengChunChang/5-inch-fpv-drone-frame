@@ -46,5 +46,5 @@ Highlights drone arm layout, mounting hole spacing, and top plate cutouts.
 ![Top View](renders/Top_Down_view.png)
 
 ### Side Profile View
-Demonstrates standoff height and FC/ESC clearance from side angle.
+Demonstrates standoff height and FC/ESC/VTX clearance from side angle.
 ![Side View](renders/Side_view.png)
