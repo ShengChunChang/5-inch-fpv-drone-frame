@@ -33,13 +33,13 @@ A custom-designed 5-inch freestyle FPV drone frame built in Autodesk Fusion 360,
 
 ## Rendered Previews
 
-### Exploded View
-Shows modular structure including arms, standoffs, camera mount, and plates.
-![Exploded View](renders/Exploded_view.png)
-
 ### Assembled Isometric View
 Complete build showing frame shape, symmetry, and part alignment.
 ![Isometric View](renders/Isometric_view.png)
+
+### Exploded View
+Shows modular structure including arms, standoffs, camera mount, and plates.
+![Exploded View](renders/Exploded_view.png)
 
 ### Top-Down View
 Highlights drone arm layout, mounting hole spacing, and top plate cutouts.
